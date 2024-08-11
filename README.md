@@ -30,7 +30,7 @@ FastAPI provides an intuitive dashboard also knwon as **Swagger UI** for making 
   > course_catalog_name: Cyberpsychology<br />
   > course_catalog_url: [https://catalog.njit.edu/undergraduate/science-liberal-arts/humanities-and-social-sciences/cyberpsychology-bs/](https://catalog.njit.edu/undergraduate/science-liberal-arts/humanities-and-social-sciences/cyberpsychology-bs/)
 - This will initiate the process of scraping for Cyberpsychology and progress of scrapping will be visible in the bash window.
-- Once, completed you can check the data in the database using MongoDB Atlas using the 
+- Once, completed you can check the data in the database using MongoDB Atlas
 
 ## Contributors
 * **Shivam Manish Sarang**
